@@ -1,6 +1,6 @@
 # Política de privacidad de PopiBlocks
 
-LSM Games Studio · *Última actualización: 20 de septiembre de 2026*
+LSM Games Studio · *Última actualización: 28 de septiembre de 2026*
 
 **Español** · [English](#popiblocks-privacy-policy)
 
@@ -87,7 +87,7 @@ LSM Games Studio\
 
 # PopiBlocks privacy policy
 
-*Last updated: September 20, 2026*
+*Last updated: September 28, 2026*
 
 ## Who we are
 
