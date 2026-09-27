@@ -40,7 +40,7 @@ El modo de dos jugadores conecta tu móvil con otro que esté al lado usando Nea
 
 Mientras buscas partida, tu móvil anuncia a los de al lado un nombre formado por el de tu mascota del juego y un número, por ejemplo «Pío 3». No se comparte el nombre de tu dispositivo ni ningún dato tuyo. Durante la partida solo se intercambian las jugadas.
 
-Para encontrar dispositivos cercanos, Android exige permisos de Bluetooth y de Wi-Fi y, en Android 12 y versiones anteriores, también el permiso de ubicación. El juego no usa ese permiso para saber dónde estás ni comparte tu ubicación: lo pide el sistema porque las búsquedas por Bluetooth podrían servir para deducirla. Estos permisos solo se piden al entrar en el modo de dos jugadores y puedes retirarlos desde los ajustes de Android.
+Para encontrar dispositivos cercanos, Android exige permisos de Bluetooth y de Wi-Fi, y el servicio de conexión de Google pide también el permiso de ubicación. El juego no usa ese permiso para saber dónde estás ni comparte tu ubicación: lo pide el sistema porque las búsquedas por Bluetooth podrían servir para deducirla. Estos permisos solo se piden al entrar en el modo de dos jugadores y puedes retirarlos desde los ajustes de Android.
 
 ## Servicios técnicos de terceros
 
@@ -125,7 +125,7 @@ Two-player mode connects your phone with another one nearby using Google's Nearb
 
 While you look for a game, your phone announces to nearby devices a name made of your in-game pet's name and a number, for example "Pío 3". Your device name is not shared, nor any data about you. During the game, only the moves are exchanged.
 
-To find nearby devices, Android requires Bluetooth and Wi-Fi permissions and, on Android 12 and earlier, the location permission too. The game does not use that permission to know where you are and never shares your location: the system asks for it because Bluetooth scans could be used to infer it. These permissions are only requested when you enter two-player mode, and you can withdraw them in Android settings.
+To find nearby devices, Android requires Bluetooth and Wi-Fi permissions, and Google's connection service also asks for the location permission. The game does not use that permission to know where you are and never shares your location: the system asks for it because Bluetooth scans could be used to infer it. These permissions are only requested when you enter two-player mode, and you can withdraw them in Android settings.
 
 ## Third-party technical services
 
