@@ -1,6 +1,6 @@
 # Política de privacidad de PopiBlocks
 
-LSM Games Studio · *Última actualización: 28 de septiembre de 2026*
+LSM Games Studio · *Última actualización: 17 de octubre de 2026*
 
 **Español** · [English](#popiblocks-privacy-policy)
 
@@ -13,7 +13,7 @@ LSM Games Studio es el desarrollador de PopiBlocks, un juego de puzle de bloques
 - No hace falta crear una cuenta y no te pedimos tu nombre, tu correo ni otros datos personales.
 - Tu progreso y tus ajustes se guardan solo en tu dispositivo.
 - La versión gratuita muestra anuncios de Google AdMob, que pueden usar el identificador de publicidad del dispositivo según lo que elijas.
-- La compra para quitar los anuncios se hace en Google Play: no recibimos los datos de tu método de pago.
+- La compra para quitar los anuncios se hace en Google Play o en la App Store: no recibimos los datos de tu método de pago.
 - La partida a dos con otro móvil cercano va directa entre los dos dispositivos, sin pasar por ningún servidor nuestro.
 
 ## Datos guardados en tu dispositivo
@@ -26,7 +26,7 @@ La versión gratuita muestra anuncios de Google AdMob, un servicio de Google: an
 
 Si estás en el Espacio Económico Europeo, el Reino Unido o Suiza, antes de mostrar anuncios el juego te pide el consentimiento con el formulario de privacidad de Google. Si no aceptas los anuncios personalizados, Google puede mostrar anuncios no personalizados, basados en el contexto y no en tu perfil. Puedes cambiar tu elección cuando quieras en **Ajustes › Privacidad de anuncios**, opción que aparece cuando la normativa de tu región lo exige.
 
-También puedes restablecer o eliminar el identificador de publicidad desde los ajustes de Android. Más información sobre cómo usa Google los datos en [Cómo utiliza Google la información de sitios web o aplicaciones que utilizan sus servicios](https://policies.google.com/technologies/partner-sites?hl=es) y en la [Política de privacidad de Google](https://policies.google.com/privacy?hl=es).
+También puedes restablecer o eliminar el identificador de publicidad desde los ajustes de Android; en iPhone y iPad, ver el apartado «En iPhone y iPad». Más información sobre cómo usa Google los datos en [Cómo utiliza Google la información de sitios web o aplicaciones que utilizan sus servicios](https://policies.google.com/technologies/partner-sites?hl=es) y en la [Política de privacidad de Google](https://policies.google.com/privacy?hl=es).
 
 Si compras quitar los anuncios, el juego deja de mostrarlos y los premios se consiguen sin ver ninguno.
 
@@ -49,6 +49,16 @@ PopiBlocks está hecho con el motor Unity, y la compra del juego usa Unity In-Ap
 ## Permisos
 
 El juego usa el acceso a Internet y al estado de la red, el permiso de facturación de Google Play, los permisos del identificador de publicidad y de los servicios de publicidad de Android, y los permisos de Bluetooth, Wi-Fi, dispositivos cercanos y ubicación que exige el modo de dos jugadores, además de permisos técnicos que añaden las librerías de Google para completar tareas en segundo plano. No solicita acceso a los contactos, la cámara, el micrófono ni tus archivos.
+
+## En iPhone y iPad
+
+PopiBlocks también está en la App Store para iPhone y iPad. En esa versión, quitar los anuncios se compra con tu cuenta de Apple: Apple procesa el pago según sus propias condiciones y su política de privacidad, LSM Games Studio no recibe los datos de tu método de pago y la compra se recupera con «Restaurar» en Opciones si reinstalas el juego o lo usas en otro iPhone o iPad.
+
+Antes de mostrar el primer anuncio, el juego te pregunta con el aviso de Apple si permites el seguimiento («Permitir que la app rastree tu actividad»). El identificador de publicidad del dispositivo solo se usa si lo permites; si no, los anuncios no usan ese identificador. Puedes cambiarlo cuando quieras en **Ajustes › Privacidad y seguridad › Rastreo**.
+
+En iPhone y iPad no está el modo de dos jugadores con otro móvil cercano, así que el juego no usa Bluetooth, Wi-Fi directo ni la ubicación, y no solicita ningún permiso.
+
+El progreso y los ajustes se guardan en el dispositivo y van en tu copia de seguridad de iCloud si la tienes activada, según los ajustes de tu cuenta de Apple. Esa copia la gestiona Apple; nosotros no accedemos a ella. Se borran al eliminar la app.
 
 ## Bases legales
 
@@ -87,7 +97,7 @@ LSM Games Studio\
 
 # PopiBlocks privacy policy
 
-*Last updated: September 28, 2026*
+*Last updated: October 17, 2026*
 
 ## Who we are
 
@@ -98,7 +108,7 @@ LSM Games Studio is the developer of PopiBlocks, a block puzzle game. This polic
 - You don't need an account, and we don't ask for your name, email or any other personal data.
 - Your progress and settings are stored only on your device.
 - The free version shows Google AdMob ads, which may use your device's advertising ID depending on your choices.
-- Removing the ads is bought on Google Play: we never receive your payment details.
+- Removing the ads is bought on Google Play or the App Store: we never receive your payment details.
 - Two-player games with a nearby phone go straight between both devices, never through a server of ours.
 
 ## Data stored on your device
@@ -111,7 +121,7 @@ The free version shows ads from Google AdMob, a Google service: full-screen ads 
 
 If you are in the European Economic Area, the United Kingdom or Switzerland, the game asks for your consent with Google's privacy form before showing ads. If you don't accept personalized ads, Google may show non-personalized ads, based on context rather than on your profile. You can change your choice at any time in **Settings › Ad privacy**, which appears when the rules in your region require it.
 
-You can also reset or delete your advertising ID in Android settings. Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites?hl=en) and in the [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
+You can also reset or delete your advertising ID in Android settings; on iPhone and iPad, see "On iPhone and iPad". Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites?hl=en) and in the [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
 
 If you buy ad removal, the game stops showing ads and you get the rewards without watching any.
 
@@ -134,6 +144,16 @@ PopiBlocks is built with the Unity engine, and the in-game purchase uses Unity I
 ## Permissions
 
 The game uses internet and network state access, the Google Play billing permission, the advertising ID and Android ad services permissions, and the Bluetooth, Wi-Fi, nearby devices and location permissions that two-player mode requires, plus technical permissions added by Google's libraries to complete background tasks. It does not ask for access to your contacts, camera, microphone or files.
+
+## On iPhone and iPad
+
+PopiBlocks is also on the App Store for iPhone and iPad. In that version, removing the ads is bought with your Apple Account: Apple processes the payment under its own terms and privacy policy, LSM Games Studio never receives your payment details, and the purchase is recovered with "Restore" in Options if you reinstall the game or use it on another iPhone or iPad.
+
+Before showing the first ad, the game asks with Apple's prompt whether you allow tracking ("Allow the app to track your activity"). Your device's advertising identifier is only used if you allow it; otherwise, ads don't use that identifier. You can change this at any time in **Settings › Privacy & Security › Tracking**.
+
+The two-player mode with a nearby phone is not available on iPhone and iPad, so the game doesn't use Bluetooth, Wi-Fi Direct or your location, and asks for no permissions.
+
+Your progress and settings are stored on the device and are included in your iCloud backup if it is turned on, according to your Apple Account settings. That backup is managed by Apple; we don't have access to it. They are deleted when you delete the app.
 
 ## Legal bases
 
